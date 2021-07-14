@@ -2,6 +2,6 @@
 
 Access this project at:  https://samvith-tallogu.github.io/Google-Lens-Vs-Mobilenet/
 
-html```
+```html
 I used html in this project
 ```
